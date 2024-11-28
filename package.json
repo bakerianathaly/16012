@@ -1,0 +1,26 @@
+{
+  "name": "16012",
+  "version": "1.0.0",
+  "description": "Pequeña documentacion",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node scr/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bakerianathaly/16012.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bakerianathaly/16012/issues"
+  },
+  "homepage": "https://github.com/bakerianathaly/16012#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "mongoose": "^8.8.3"
+  }
+}
